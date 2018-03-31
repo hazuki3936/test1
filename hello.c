@@ -23,7 +23,7 @@ int main(int argc, char *argv[])
 		return -2;
 	}
 	
-	fprintf(fo, "%s Hello World!!\n", nowTime);
+	fprintf(fo, "%s Good Morning!!\n", nowTime);
 	
 	fclose(fo);
 	
